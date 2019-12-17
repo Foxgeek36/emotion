@@ -1,0 +1,10 @@
+#github
+https://github.com/darkripples/spider_emoticon
+
+#目标url
+https://fabiaoqing.com/
+https://fabiaoqing.com/tag/detail/id/2/page/
+
+#说明
+-在多进程下使用多线程做综合执行及下载
+

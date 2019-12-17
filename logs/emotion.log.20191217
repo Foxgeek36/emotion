@@ -1,0 +1,5 @@
+2019-12-17 15:22:21,967 - emotion - INFO - [fls_log.py:90] START>>>2019/12/17-15:22:21
+2019-12-17 15:22:21,987 - emotion - INFO - [fls_log.py:90] 总任务组数:2
+2019-12-17 15:22:22,272 - emotion - INFO - [fls_log.py:90] work>>>	https://fabiaoqing.com/tag/detail/id/2/page/1.html
+2019-12-17 15:22:24,490 - emotion - INFO - [fls_log.py:90] work>>>	https://fabiaoqing.com/tag/detail/id/2/page/2.html
+2019-12-17 15:22:26,226 - emotion - INFO - [fls_log.py:90] END>>>2019/12/17-15:22:26
